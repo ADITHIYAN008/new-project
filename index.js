@@ -1,2 +1,2 @@
 console.log("Checking SSH key");
-console.log("number 1");
+console.log("number 3");
